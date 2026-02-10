@@ -4,7 +4,7 @@ export function login() {
         <form action="" class='loginin'>
      
               <div class='ingresa'>
-                 <h2 >Ingresa tu usurio y contraseña</h2>
+                 <h2 >Ingresa tu usuario y contraseña</h2>
             </div>
             <div>
                 <label for="correo">Correo</label>

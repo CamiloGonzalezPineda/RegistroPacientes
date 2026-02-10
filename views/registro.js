@@ -3,7 +3,7 @@ export function registro() {
         <form id='registro' action="" class='loginin'>
      
               <div class='ingresa'>
-                 <h2>Registra tu usurio y contraseña</h2>
+                 <h2>Registra tu usuario y contraseña</h2>
             </div>
             <div>
                 <label for="">Correo</label>
